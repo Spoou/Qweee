@@ -1,1 +1,1 @@
-gh repo clone rubygems/rubygems
+ghttps://github.com/rubygems/rubygems.git
